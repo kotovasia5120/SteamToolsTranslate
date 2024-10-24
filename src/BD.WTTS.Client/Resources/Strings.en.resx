@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <root>
   <!-- 
     Microsoft ResX Schema 
@@ -307,7 +307,7 @@
   </data>
   <data name="CommunityFix_AlreadyProxy" xml:space="preserve">
     <value>Routing your connections</value>
-    <comment>Comment=末尾带空格;Author=沙中金</comment>
+    <comment>Comment=末尾带空格;</comment>
   </data>
   <data name="CommunityFix_AutoRunProxy" xml:space="preserve">
     <value>Start routing your connections upon launching Watt Toolkit</value>
@@ -1407,83 +1407,83 @@
   </data>
   <data name="SteamAppType_Application" xml:space="preserve">
     <value>Software</value>
-    <comment>Comment=;Author=沙中金</comment>
+    <comment>Author=MicrosoftTranslator</comment>
   </data>
   <data name="SteamAppType_Beta" xml:space="preserve">
     <value>Playtests</value>
-    <comment>Comment=;Author=沙中金</comment>
+    <comment>Author=MicrosoftTranslator</comment>
   </data>
   <data name="SteamAppType_Config" xml:space="preserve">
     <value>Configurations</value>
-    <comment>Comment=;Author=沙中金</comment>
+    <comment>Author=MicrosoftTranslator</comment>
   </data>
   <data name="SteamAppType_Demo" xml:space="preserve">
     <value>Demo</value>
-    <comment>Comment=;Author=沙中金</comment>
+    <comment>Author=MicrosoftTranslator</comment>
   </data>
   <data name="SteamAppType_DepotOnly" xml:space="preserve">
     <value>Depots</value>
-    <comment>Comment=;Author=沙中金</comment>
+    <comment>Author=MicrosoftTranslator</comment>
   </data>
   <data name="SteamAppType_DLC" xml:space="preserve">
     <value>DLC</value>
-    <comment>Comment=;Author=沙中金</comment>
+    <comment>Author=MicrosoftTranslator</comment>
   </data>
   <data name="SteamAppType_Driver" xml:space="preserve">
     <value>Drivers</value>
-    <comment>Comment=;Author=沙中金</comment>
+    <comment>Author=MicrosoftTranslator</comment>
   </data>
   <data name="SteamAppType_Franchise" xml:space="preserve">
     <value>Franchises</value>
-    <comment>Comment=;Author=沙中金</comment>
+    <comment>Author=MicrosoftTranslator</comment>
   </data>
   <data name="SteamAppType_Game" xml:space="preserve">
     <value>Games</value>
-    <comment>Comment=;Author=沙中金</comment>
+    <comment>Author=MicrosoftTranslator</comment>
   </data>
   <data name="SteamAppType_Guide" xml:space="preserve">
     <value>Guides</value>
-    <comment>Comment=;Author=沙中金</comment>
+    <comment>Author=MicrosoftTranslator</comment>
   </data>
   <data name="SteamAppType_Hardware" xml:space="preserve">
     <value>Hardware</value>
-    <comment>Comment=;Author=沙中金</comment>
+    <comment>Author=MicrosoftTranslator</comment>
   </data>
   <data name="SteamAppType_Media" xml:space="preserve">
     <value>Media</value>
-    <comment>Comment=;Author=沙中金</comment>
+    <comment>Author=MicrosoftTranslator</comment>
   </data>
   <data name="SteamAppType_Mod" xml:space="preserve">
     <value>Mods</value>
-    <comment>Comment=;Author=沙中金</comment>
+    <comment>Author=MicrosoftTranslator</comment>
   </data>
   <data name="SteamAppType_Music" xml:space="preserve">
     <value>OSTs</value>
-    <comment>Comment=;Author=沙中金</comment>
+    <comment>Author=MicrosoftTranslator</comment>
   </data>
   <data name="SteamAppType_Plugin" xml:space="preserve">
     <value>Plugins</value>
-    <comment>Comment=;Author=沙中金</comment>
+    <comment>Author=MicrosoftTranslator</comment>
   </data>
   <data name="SteamAppType_Series" xml:space="preserve">
     <value>Videos</value>
-    <comment>Comment=;Author=沙中金</comment>
+    <comment>Author=MicrosoftTranslator</comment>
   </data>
   <data name="SteamAppType_Shortcut" xml:space="preserve">
     <value>Shortcuts</value>
-    <comment>Comment=;Author=沙中金</comment>
+    <comment>Author=MicrosoftTranslator</comment>
   </data>
   <data name="SteamAppType_Tool" xml:space="preserve">
     <value>Tools</value>
-    <comment>Comment=;Author=沙中金</comment>
+    <comment>Author=MicrosoftTranslator</comment>
   </data>
   <data name="SteamAppType_Unknown" xml:space="preserve">
     <value>Others</value>
-    <comment>Comment=;Author=沙中金</comment>
+    <comment>Author=MicrosoftTranslator</comment>
   </data>
   <data name="SteamAppType_Video" xml:space="preserve">
     <value>Videos</value>
-    <comment>Comment=;Author=沙中金</comment>
+    <comment>Author=MicrosoftTranslator</comment>
   </data>
   <data name="Steam_ImageCodeTip" xml:space="preserve">
     <value>Enter verification code from image</value>
@@ -1879,11 +1879,11 @@
   </data>
   <data name="Settings_General_BrowseCustomFolder" xml:space="preserve">
     <value>Open the {0} folder</value>
-    <comment>Comment={0}文件夹名称英文字母组成;Author=MicrosoftTranslator</comment>
+    <comment>Comment={0}文件夹名称英文字母组成;</comment>
   </data>
   <data name="Settings_General_CacheSize" xml:space="preserve">
     <value>Cache file consumed {0}</value>
-    <comment>Comment={0}占用体积大小;Author=MicrosoftTranslator</comment>
+    <comment>Comment={0}占用体积大小;</comment>
   </data>
   <data name="Settings_General_ClearCache" xml:space="preserve">
     <value>Clean up cache files</value>
@@ -1927,7 +1927,7 @@
   </data>
   <data name="Settings_General_LogSize" xml:space="preserve">
     <value>Log file is occupied {0}</value>
-    <comment>Comment={0}占用体积大小;Author=MicrosoftTranslator</comment>
+    <comment>Comment={0}占用体积大小;</comment>
   </data>
   <data name="User_WaitFastLoginTip" xml:space="preserve">
     <value>We have opened a quick login window using your system browser, please go to this page and log in. Keep the window open</value>
@@ -2043,7 +2043,7 @@
   </data>
   <data name="CreateCertificateFaild" xml:space="preserve">
     <value>Failed to create certificate</value>
-    <comment>Comment=Fail;Author=MicrosoftTranslator</comment>
+    <comment>Fail</comment>
   </data>
   <data name="Decompressing_" xml:space="preserve">
     <value>Unzipping: {0}%</value>
@@ -2570,7 +2570,7 @@ This action ends with a running Steam jump to the new account login window.</val
   <data name="GameList_SteamShutdown_DownloadCompleteTip" xml:space="preserve">
     <value>The Steam game has been downloaded
 The system will {1} after {0} seconds.</value>
-    <comment>Comment={0}倒计时时间 {1}执行操作;Author=MicrosoftTranslator</comment>
+    <comment>Comment={0}倒计时时间 {1}执行操作;</comment>
   </data>
   <data name="LinuxSudoTips" xml:space="preserve">
     <value>Linux requires a system root password to use the feature properly</value>
@@ -2890,7 +2890,7 @@ The system will {1} after {0} seconds.</value>
   </data>
   <data name="SaveImageFileFailed" xml:space="preserve">
     <value>Failed to save {0} picture</value>
-    <comment>Comment=;Author=MicrosoftTranslator</comment>
+    <comment> {0} 图片类型;</comment>
   </data>
   <data name="ResetAll" xml:space="preserve">
     <value>Reset all</value>
@@ -3127,5 +3127,1700 @@ The system will {1} after {0} seconds.</value>
   <data name="Error" xml:space="preserve">
     <value>Error</value>
     <comment>Comment=;Author=deepl</comment>
+  </data>
+  <data name="Off" xml:space="preserve">
+    <value>Off</value>
+    <comment>Author=kotovasia5120</comment>
+  </data>
+  <data name="On" xml:space="preserve">
+    <value>On</value>
+    <comment>Author=kotovasia5120</comment>
+  </data>
+  <data name="Close" xml:space="preserve">
+    <value>Close</value>
+    <comment>Author=kotovasia5120</comment>
+  </data>
+  <data name="Minimize" xml:space="preserve">
+    <value>Minimize</value>
+    <comment>Author=kotovasia5120</comment>
+  </data>
+  <data name="Maximize" xml:space="preserve">
+    <value>Maximize</value>
+    <comment>Author=kotovasia5120</comment>
+  </data>
+  <data name="Restore" xml:space="preserve">
+    <value>Restore</value>
+    <comment>Author=kotovasia5120</comment>
+  </data>
+  <data name="Back" xml:space="preserve">
+    <value>Back</value>
+    <comment>Author=kotovasia5120</comment>
+  </data>
+  <data name="LoginVerify" xml:space="preserve">
+    <value>LoginVerify</value>
+    <comment>Author=kotovasia5120</comment>
+  </data>
+  <data name="Steam2FACode" xml:space="preserve">
+    <value>Steam2FACode</value>
+    <comment>Author=kotovasia5120</comment>
+  </data>
+  <data name="Library" xml:space="preserve">
+    <value>Library</value>
+    <comment>Author=kotovasia5120</comment>
+  </data>
+  <data name="MoreInfo" xml:space="preserve">
+    <value>MoreInfo</value>
+    <comment>Author=kotovasia5120</comment>
+  </data>
+  <data name="Settings_Plugin" xml:space="preserve">
+    <value>Settings Plugin</value>
+    <comment>Author=kotovasia5120</comment>
+  </data>
+  <data name="Settings_Steam_RunSteamChina" xml:space="preserve">
+    <value>When Steam is started, it will be simulated as Steam Platform (Steam China Server)</value>
+    <comment>Author=kotovasia5120</comment>
+  </data>
+  <data name="Settings_UI_BackgroundOpacity" xml:space="preserve">
+    <value>Background Opacity</value>
+    <comment>Author=kotovasia5120</comment>
+  </data>
+  <data name="Settings_UI_BackgroundImageOpacity" xml:space="preserve">
+    <value>Background image opacity</value>
+    <comment>Author=kotovasia5120</comment>
+  </data>
+  <data name="Steam_ServerTime" xml:space="preserve">
+    <value>Steam Server Time:</value>
+    <comment>Author=kotovasia5120</comment>
+  </data>
+  <data name="CalcHashing3__" xml:space="preserve">
+    <value>Verifying （{1}/{2}）：{0}%</value>
+    <comment>Author=kotovasia5120</comment>
+  </data>
+  <data name="Downloading3__" xml:space="preserve">
+    <value>Downloading （{1}/{2}）：{0}%</value>
+    <comment>Author=kotovasia5120</comment>
+  </data>
+  <data name="NewVersionUpdateTitle__" xml:space="preserve">
+    <value>{1} v{0} version update</value>
+    <comment>Author=kotovasia5120</comment>
+  </data>
+  <data name="About_FormerName__" xml:space="preserve">
+    <value>{0}（formerly {1}）</value>
+    <comment>Author=kotovasia5120</comment>
+  </data>
+  <data name="About_ThankSupport" xml:space="preserve">
+    <value>Thanks for your support</value>
+    <comment>Author=kotovasia5120</comment>
+  </data>
+  <data name="About_Version_" xml:space="preserve">
+    <value>Version {0}</value>
+    <comment>Author=kotovasia5120</comment>
+  </data>
+  <data name="AboutThisPlugin" xml:space="preserve">
+    <value>About this plugin</value>
+    <comment>Author=kotovasia5120</comment>
+  </data>
+  <data name="Accelerator_OpenHostsDir" xml:space="preserve">
+    <value>Open the hosts folder</value>
+    <comment>Author=kotovasia5120</comment>
+  </data>
+  <data name="AccountLogin" xml:space="preserve">
+    <value>Login with password</value>
+    <comment>Author=kotovasia5120</comment>
+  </data>
+  <data name="AddPlatform" xml:space="preserve">
+    <value>Add Platform</value>
+    <comment>Author=kotovasia5120</comment>
+  </data>
+  <data name="AdministratorStartup" xml:space="preserve">
+    <value>Start with administrator privileges</value>
+    <comment>Author=kotovasia5120</comment>
+  </data>
+  <data name="AllPassed" xml:space="preserve">
+    <value>All passed</value>
+    <comment>Author=kotovasia5120</comment>
+  </data>
+  <data name="AppTheme_Dark" xml:space="preserve">
+    <value>Dark</value>
+    <comment>Author=MicrosoftTranslator</comment>
+  </data>
+  <data name="AppTheme_FollowingSystem" xml:space="preserve">
+    <value>Follow the system</value>
+    <comment>Author=MicrosoftTranslator</comment>
+  </data>
+  <data name="AppTheme_Light" xml:space="preserve">
+    <value>Light</value>
+    <comment>Author=MicrosoftTranslator</comment>
+  </data>
+  <data name="ASF_DeleteBotSuccess" xml:space="preserve">
+    <value>Bot deleted successfully</value>
+    <comment>Author=kotovasia5120</comment>
+  </data>
+  <data name="ASF_EffectiveAfterRestart" xml:space="preserve">
+    <value>Restart ASF to take effect</value>
+    <comment>Author=kotovasia5120</comment>
+  </data>
+  <data name="ASF_ExecuteFileUnsafe" xml:space="preserve">
+    <value>Файл ArchiSteamFarm.exe небезопасен.</value>
+    <comment>Author=kotovasia5120</comment>
+  </data>
+  <data name="ASF_SelectASFExePath" xml:space="preserve">
+    <value>Please select or select the correct ASF executable path</value>
+    <comment>Author=kotovasia5120</comment>
+  </data>
+  <data name="ASF_SetExePathFirst" xml:space="preserve">
+    <value>Please set the ArchiSteamFarm.exe file path for the first use</value>
+    <comment>Author=kotovasia5120</comment>
+  </data>
+  <data name="ASF_Settings" xml:space="preserve">
+    <value>ASF Settings</value>
+    <comment>Author=kotovasia5120</comment>
+  </data>
+  <data name="Auth_Add" xml:space="preserve">
+    <value>Add Token</value>
+    <comment>Author=kotovasia5120</comment>
+  </data>
+  <data name="Auth_AddMachineValidation" xml:space="preserve">
+    <value>System built-in encryption authentication enabled</value>
+    <comment>Author=kotovasia5120</comment>
+  </data>
+  <data name="Auth_AddPasswordProtect" xml:space="preserve">
+    <value>Enable custom password protection</value>
+    <comment>Author=kotovasia5120</comment>
+  </data>
+  <data name="Auth_EditName" xml:space="preserve">
+    <value>Edit Token Name</value>
+    <comment>Author=kotovasia5120</comment>
+  </data>
+  <data name="Auth_EncryptionHelp" xml:space="preserve">
+    <value>Encryption Help</value>
+    <comment>Author=kotovasia5120</comment>
+  </data>
+  <data name="Auth_ExportAll" xml:space="preserve">
+    <value>Export all tokens</value>
+    <comment>Author=kotovasia5120</comment>
+  </data>
+  <data name="Auth_ExportmaFile" xml:space="preserve">
+    <value>Export this token as a Mafile file</value>
+    <comment>Author=kotovasia5120</comment>
+  </data>
+  <data name="Auth_ExportUsingPassword" xml:space="preserve">
+    <value>Export with password</value>
+    <comment>Author=kotovasia5120</comment>
+  </data>
+  <data name="Auth_ImportCustomFile" xml:space="preserve">
+    <value>Import from file</value>
+    <comment>Author=kotovasia5120</comment>
+  </data>
+  <data name="Auth_lock" xml:space="preserve">
+    <value>Locking Token</value>
+    <comment>Author=kotovasia5120</comment>
+  </data>
+  <data name="Auth_OnlylocalCanDecrypt" xml:space="preserve">
+    <value>Only this machine can decrypt</value>
+    <comment>Author=kotovasia5120</comment>
+  </data>
+  <data name="Auth_OnlyMafileFormat" xml:space="preserve">
+    <value>Steam tokens only support Mafile format.</value>
+    <comment>Author=kotovasia5120</comment>
+  </data>
+  <data name="Auth_PasswordProtectedVerifyFirst" xml:space="preserve">
+    <value>Your token is password protected, please verify the password first</value>
+    <comment>Author=kotovasia5120</comment>
+  </data>
+  <data name="Auth_Possession" xml:space="preserve">
+    <value>Already have a token</value>
+    <comment>Author=kotovasia5120</comment>
+  </data>
+  <data name="Auth_RemoveMachineValidation" xml:space="preserve">
+    <value>System built-in encryption authentication disabled</value>
+    <comment>Author=kotovasia5120</comment>
+  </data>
+  <data name="Auth_SteamLoginImport" xml:space="preserve">
+    <value>Steam Login Import</value>
+    <comment>Author=kotovasia5120</comment>
+  </data>
+  <data name="Auth_Sync_LatestData" xml:space="preserve">
+    <value>The local token is the latest data</value>
+    <comment>Author=kotovasia5120</comment>
+  </data>
+  <data name="Auth_Sync_MoveError" xml:space="preserve">
+    <value>Data is not synchronized, token order adjustment failed</value>
+    <comment>Author=kotovasia5120</comment>
+  </data>
+  <data name="Auth_Sync_NoHasPassword" xml:space="preserve">
+    <value>Cloud token sync password not set</value>
+    <comment>Author=kotovasia5120</comment>
+  </data>
+  <data name="Auth_Sync_NoHasRecover" xml:space="preserve">
+    <value>There are no cloud tokens to recover</value>
+    <comment>Author=kotovasia5120</comment>
+  </data>
+  <data name="Auth_Sync_Recover" xml:space="preserve">
+    <value>Recover Cloud Token</value>
+    <comment>Author=kotovasia5120</comment>
+  </data>
+  <data name="Auth_Sync_RecoverSuccess" xml:space="preserve">
+    <value>The cloud token has been restored to the cloud. You can click Cloud Sync to restore the corresponding token to your local computer.</value>
+    <comment>Author=kotovasia5120</comment>
+  </data>
+  <data name="Auth_Sync_ResetPassword" xml:space="preserve">
+    <value>Reset Cloud Password</value>
+    <comment>Author=kotovasia5120</comment>
+  </data>
+  <data name="Auth_Sync_UpdateTips" xml:space="preserve">
+    <value>{0} local tokens added, {1} data updated</value>
+    <comment>Author=kotovasia5120</comment>
+  </data>
+  <data name="Auth_Sync_VerifyRecover" xml:space="preserve">
+    <value>Confirm recovery</value>
+    <comment>Author=kotovasia5120</comment>
+  </data>
+  <data name="Auth_UniversalImport" xml:space="preserve">
+    <value>2FA Universal Import</value>
+    <comment>Author=kotovasia5120</comment>
+  </data>
+  <data name="AuthImport" xml:space="preserve">
+    <value>Token Import</value>
+    <comment>Author=kotovasia5120</comment>
+  </data>
+  <data name="BatchPass" xml:space="preserve">
+    <value>Batch pass</value>
+    <comment>Author=kotovasia5120</comment>
+  </data>
+  <data name="BatchReject" xml:space="preserve">
+    <value>Bulk rejection</value>
+    <comment>Author=kotovasia5120</comment>
+  </data>
+  <data name="BindThirdPartyAccount" xml:space="preserve">
+    <value>Bind third-party account</value>
+    <comment>Author=kotovasia5120</comment>
+  </data>
+  <data name="BugReport" xml:space="preserve">
+    <value>BugReport</value>
+    <comment>Author=kotovasia5120</comment>
+  </data>
+  <data name="CancelAll" xml:space="preserve">
+    <value>Cancel all</value>
+    <comment>Author=kotovasia5120</comment>
+  </data>
+  <data name="Changelog" xml:space="preserve">
+    <value>Changelog</value>
+    <comment>Author=kotovasia5120</comment>
+  </data>
+  <data name="ChangePassword" xml:space="preserve">
+    <value>Change Password</value>
+    <comment>Author=kotovasia5120</comment>
+  </data>
+  <data name="CloseSteam" xml:space="preserve">
+    <value>Close Steam</value>
+    <comment>Author=kotovasia5120</comment>
+  </data>
+  <data name="CommunityFix_CustomDohAddres" xml:space="preserve">
+    <value>Custom DoH Address</value>
+    <comment>Author=kotovasia5120</comment>
+  </data>
+  <data name="CommunityFix_DeleteCertificate_Fail" xml:space="preserve">
+    <value>Failed to delete CA certificate</value>
+    <comment>Author=kotovasia5120</comment>
+  </data>
+  <data name="CommunityFix_DeleteCertificate_Success" xml:space="preserve">
+    <value>Deleting CA certificate successfully</value>
+    <comment>Author=kotovasia5120</comment>
+  </data>
+  <data name="CommunityFix_EnableUseDoh" xml:space="preserve">
+    <value>Enable DoH</value>
+    <comment>Author=kotovasia5120</comment>
+  </data>
+  <data name="CommunityFix_OnRunCatch" xml:space="preserve">
+    <value>Failed to start network acceleration</value>
+    <comment>Author=kotovasia5120</comment>
+  </data>
+  <data name="ConfirmTransaction" xml:space="preserve">
+    <value>Confirming the transaction</value>
+    <comment>Author=kotovasia5120</comment>
+  </data>
+  <data name="ContactUs" xml:space="preserve">
+    <value>Contact Us</value>
+    <comment>Author=kotovasia5120</comment>
+  </data>
+  <data name="CookieLogin" xml:space="preserve">
+    <value>Cookie Login</value>
+    <comment>Author=kotovasia5120</comment>
+  </data>
+  <data name="CopyUserId" xml:space="preserve">
+    <value>Copy UID</value>
+    <comment>Author=kotovasia5120</comment>
+  </data>
+  <data name="Debug_InstructionPlaceholder" xml:space="preserve">
+    <value>Enter console commands here</value>
+    <comment>Author=kotovasia5120</comment>
+  </data>
+  <data name="DefaultExport" xml:space="preserve">
+    <value>Export this token</value>
+    <comment>Author=kotovasia5120</comment>
+  </data>
+  <data name="Depot" xml:space="preserve">
+    <value>Depot</value>
+    <comment>Author=kotovasia5120</comment>
+  </data>
+  <data name="Disable" xml:space="preserve">
+    <value>Disable</value>
+    <comment>Author=kotovasia5120</comment>
+  </data>
+  <data name="Disabled" xml:space="preserve">
+    <value>Disabled</value>
+    <comment>Author=kotovasia5120</comment>
+  </data>
+  <data name="DisplayQRCode" xml:space="preserve">
+    <value>Display QR Code</value>
+    <comment>Author=kotovasia5120</comment>
+  </data>
+  <data name="Enable" xml:space="preserve">
+    <value>Enable</value>
+    <comment>Author=kotovasia5120</comment>
+  </data>
+  <data name="Enabled" xml:space="preserve">
+    <value>Enabled</value>
+    <comment>Author=kotovasia5120</comment>
+  </data>
+  <data name="EncryptSettings" xml:space="preserve">
+    <value>Encryption settings</value>
+    <comment>Author=kotovasia5120</comment>
+  </data>
+  <data name="Error_AccountIdIsEmpty" xml:space="preserve">
+    <value>Account Id is empty</value>
+    <comment>Author=kotovasia5120</comment>
+  </data>
+  <data name="Error_AuthSynchronizationFailed_" xml:space="preserve">
+    <value>Failed to synchronize with server time when calculating token: {0}</value>
+    <comment>Author=kotovasia5120</comment>
+  </data>
+  <data name="Filter" xml:space="preserve">
+    <value>Filter</value>
+    <comment>Author=kotovasia5120</comment>
+  </data>
+  <data name="FilterRequirement" xml:space="preserve">
+    <value>FilterRequirement</value>
+    <comment>Author=kotovasia5120</comment>
+  </data>
+  <data name="Google" xml:space="preserve">
+    <value>Google Token</value>
+    <comment>Author=kotovasia5120</comment>
+  </data>
+  <data name="Error_PathFailedUnableSwitchAccount_" xml:space="preserve">
+    <value>The path is not selected correctly, the {0} platform account switching function cannot be used</value>
+    <comment>Author=kotovasia5120</comment>
+  </data>
+  <data name="Error_PleaseEnterCode" xml:space="preserve">
+    <value>Please enter the verification code.</value>
+    <comment>Author=kotovasia5120</comment>
+  </data>
+  <data name="Error_PleaseEnterEmailCode" xml:space="preserve">
+    <value>Please enter the email verification code.</value>
+    <comment>Author=kotovasia5120</comment>
+  </data>
+  <data name="Error_PleaseEnterUsernamePassword" xml:space="preserve">
+    <value>Please enter your username and password.</value>
+    <comment>Author=kotovasia5120</comment>
+  </data>
+  <data name="Error_ReadRegistryFailed" xml:space="preserve">
+    <value>Failed to read the saved registry key. If unsuccessful, try removing and re-adding the account.</value>
+    <comment>Author=kotovasia5120</comment>
+  </data>
+  <data name="Error_UnableSwitchPlatformAccount_" xml:space="preserve">
+    <value>The path is not selected correctly, the {0} platform account switching function cannot be used</value>
+    <comment>Author=kotovasia5120</comment>
+  </data>
+  <data name="Game_Hidden" xml:space="preserve">
+    <value>Hidden Game</value>
+    <comment>Author=kotovasia5120</comment>
+  </data>
+  <data name="GeneralAuth_EnterkeyOrLink" xml:space="preserve">
+    <value>Enter the token prompted by the website and import the Key value after QR code recognition</value>
+    <comment>Author=kotovasia5120</comment>
+  </data>
+  <data name="GeneralAuth_VerifySuccessfulImport" xml:space="preserve">
+    <value>Please verify whether the following code is correct and import it if it is correct.</value>
+    <comment>Author=kotovasia5120</comment>
+  </data>
+  <data name="Link" xml:space="preserve">
+    <value>Link</value>
+    <comment>Author=kotovasia5120</comment>
+  </data>
+  <data name="LocalAuth_JoinSteamAuthenticator_VerifySteamGuardCodeError" xml:space="preserve">
+    <value>Verification token error</value>
+    <comment>Author=kotovasia5120</comment>
+  </data>
+  <data name="LocalAuth_VerifyCode" xml:space="preserve">
+    <value>Verification Code</value>
+    <comment>Author=kotovasia5120</comment>
+  </data>
+  <data name="ModelContent_ExportPassword" xml:space="preserve">
+    <value>Please enter the password set when this token was exported</value>
+    <comment>Author=kotovasia5120</comment>
+  </data>
+  <data name="OSExitMode_Lock" xml:space="preserve">
+    <value>OSExitMode_Lock</value>
+    <comment>Author=MicrosoftTranslator</comment>
+  </data>
+  <data name="PictureZoom" xml:space="preserve">
+    <value>Select image scaling method</value>
+    <comment>Author=kotovasia5120</comment>
+  </data>
+  <data name="Plugin_NeedDisable" xml:space="preserve">
+    <value>You need to disable the plugin first</value>
+    <comment>Author=kotovasia5120</comment>
+  </data>
+  <data name="PreviewPictures" xml:space="preserve">
+    <value>Preview Pictures</value>
+    <comment>Author=kotovasia5120</comment>
+  </data>
+  <data name="SelectFilepath" xml:space="preserve">
+    <value> Select the file path</value>
+    <comment>Author=kotovasia5120</comment>
+  </data>
+  <data name="SelectPicture" xml:space="preserve">
+    <value>Select a picture</value>
+    <comment>Author=kotovasia5120</comment>
+  </data>
+  <data name="Settings_UI_PreviewColor" xml:space="preserve">
+    <value>Preview Color</value>
+    <comment>Author=kotovasia5120</comment>
+  </data>
+  <data name="SponsorUs" xml:space="preserve">
+    <value>Sponsor Us</value>
+    <comment>Author=kotovasia5120</comment>
+  </data>
+  <data name="Steam_EmailCode" xml:space="preserve">
+    <value>Email verification code</value>
+    <comment>Author=kotovasia5120</comment>
+  </data>
+  <data name="SubHeader_FirstSyncSetAuth" xml:space="preserve">
+    <value>For the first synchronization, please set a security question and password for your cloud token. Please enter the "Security Question" first</value>
+    <comment>Author=kotovasia5120</comment>
+  </data>
+  <data name="Title_PleaseEnterLoginPassword" xml:space="preserve">
+    <value>Please enter the Steam account login password</value>
+    <comment>Author=kotovasia5120</comment>
+  </data>
+  <data name="UniversalAuthImport" xml:space="preserve">
+    <value>Universal 2FA Token Import</value>
+    <comment>Author=kotovasia5120</comment>
+  </data>
+  <data name="User_LoginCodeTimeLimitTip_" xml:space="preserve">
+    <value>Get ({0})</value>
+    <comment>Comment=短信验证码倒计时;</comment>
+  </data>
+  <data name="Verify" xml:space="preserve">
+    <value>Verify</value>
+    <comment>Author=kotovasia5120</comment>
+  </data>
+  <data name="Warning_CodeNullPleaseLogin" xml:space="preserve">
+    <value>The verification code URL is empty, please log in again</value>
+    <comment>Author=kotovasia5120</comment>
+  </data>
+  <data name="Warning_PleaseInputAccountName" xml:space="preserve">
+    <value>Please enter your account name</value>
+    <comment>Author=kotovasia5120</comment>
+  </data>
+  <data name="Warning_PleaseSelectImportWay" xml:space="preserve">
+    <value>Please select the import method</value>
+    <comment>Author=kotovasia5120</comment>
+  </data>
+  <data name="YouNeedSignInToGetUID_" xml:space="preserve">
+    <value>You need to log in to {0} account to obtain UID</value>
+    <comment>Author=kotovasia5120</comment>
+  </data>
+  <data name="Error_localAuthNotEmpty" xml:space="preserve">
+    <value>localAuth should not be empty</value>
+    <comment>Author=kotovasia5120</comment>
+  </data>
+  <data name="Error_SteamGetUserInfo" xml:space="preserve">
+    <value>Failed to retrieve Steam user information</value>
+    <comment>Author=kotovasia5120</comment>
+  </data>
+  <data name="GameAccelerator_WattAcceleratorInstallPath" xml:space="preserve">
+    <value>Watt accelerator installation location</value>
+    <comment>Author=kotovasia5120</comment>
+  </data>
+  <data name="HOTP" xml:space="preserve">
+    <value>HOTP, TOTP Universal Token</value>
+    <comment>Author=kotovasia5120</comment>
+  </data>
+  <data name="Idle_PIN_NotBeNull" xml:space="preserve">
+    <value>PIN CODE cannot be empty</value>
+    <comment>Author=kotovasia5120</comment>
+  </data>
+  <data name="Info_SteamDesktopAuthImportMessage_" xml:space="preserve">
+    <value>SteamDesktopAuth token import {0}</value>
+    <comment>Author=kotovasia5120</comment>
+  </data>
+  <data name="Info_V1ImportMessage_" xml:space="preserve">
+    <value>WattToolKitV1 Token Import {0}</value>
+    <comment>Author=kotovasia5120</comment>
+  </data>
+  <data name="Info_V2ImportMessage_" xml:space="preserve">
+    <value>WattToolKitV2 Token Import {0}</value>
+    <comment>Author=kotovasia5120</comment>
+  </data>
+  <data name="Info_WinAuthImportMessage_" xml:space="preserve">
+    <value>WinAuth token import {0}</value>
+    <comment>Author=kotovasia5120</comment>
+  </data>
+  <data name="LocalAuth_2FAImport" xml:space="preserve">
+    <value>{0}Key import</value>
+    <comment>Author=kotovasia5120</comment>
+  </data>
+  <data name="LocalAuth_JoinSteamAuthenticator" xml:space="preserve">
+    <value>LocalAuth_JoinSteamAuthenticator</value>
+    <comment>Author=kotovasia5120</comment>
+  </data>
+  <data name="LocalAuth_JoinSteamAuthenticator_SteamAppAuthenticatorCode" xml:space="preserve">
+    <value>Steam App Token Verification Code</value>
+    <comment>Author=kotovasia5120</comment>
+  </data>
+  <data name="Mafile" xml:space="preserve">
+    <value>Mafile file</value>
+    <comment>Author=kotovasia5120</comment>
+  </data>
+  <data name="Microsoft" xml:space="preserve">
+    <value>Microsoft Token</value>
+    <comment>Author=kotovasia5120</comment>
+  </data>
+  <data name="ModelContent_ImportSuccessful_" xml:space="preserve">
+    <value>{0}Imported successfully</value>
+    <comment>Author=kotovasia5120</comment>
+  </data>
+  <data name="Settings_General_AppData" xml:space="preserve">
+    <value>AppData data</value>
+    <comment>Author=kotovasia5120</comment>
+  </data>
+  <data name="Settings_General_CacheData" xml:space="preserve">
+    <value>Cache Data</value>
+    <comment>Author=kotovasia5120</comment>
+  </data>
+  <data name="Settings_General_LogsData" xml:space="preserve">
+    <value>Logs data</value>
+    <comment>Author=kotovasia5120</comment>
+  </data>
+  <data name="Settings_Steam_AdminRunPrompt" xml:space="preserve">
+    <value>Steam should not be run as an administrator by default, but you can check this option if you have special needs</value>
+    <comment>Author=kotovasia5120</comment>
+  </data>
+  <data name="Settings_Steam_Path" xml:space="preserve">
+    <value>Steam Path</value>
+    <comment>Author=kotovasia5120</comment>
+  </data>
+  <data name="Steam_Login" xml:space="preserve">
+    <value>Steam Login</value>
+    <comment>Author=kotovasia5120</comment>
+  </data>
+  <data name="SteamGuard" xml:space="preserve">
+    <value>SteamGuard</value>
+    <comment>Author=kotovasia5120</comment>
+  </data>
+  <data name="SteamGuardData" xml:space="preserve">
+    <value>SteamGuard Data</value>
+    <comment>Author=kotovasia5120</comment>
+  </data>
+  <data name="SteamIdleCard" xml:space="preserve">
+    <value>SteamIdleCard</value>
+    <comment>Author=kotovasia5120</comment>
+  </data>
+  <data name="SteamLoginImport" xml:space="preserve">
+    <value>Steam Login Import</value>
+    <comment>Author=kotovasia5120</comment>
+  </data>
+  <data name="SteamNotRuning" xml:space="preserve">
+    <value>Steam not launching</value>
+    <comment>Author=kotovasia5120</comment>
+  </data>
+  <data name="SteamRuning" xml:space="preserve">
+    <value>Steam is launched</value>
+    <comment>Author=kotovasia5120</comment>
+  </data>
+  <data name="SteamUUID" xml:space="preserve">
+    <value>Steam UUID</value>
+    <comment>Author=kotovasia5120</comment>
+  </data>
+  <data name="Success_ExecuteAllAuthEnd___" xml:space="preserve">
+    <value>{0}Selected token execution completed, number of successful executions {1}, number of failed executions {2}</value>
+    <comment>Author=kotovasia5120</comment>
+  </data>
+  <data name="Warning_SteamGuardNotEmpty" xml:space="preserve">
+    <value>UUID and SteamGuard cannot be empty</value>
+    <comment>Author=kotovasia5120</comment>
+  </data>
+  <data name="WattToolKitV1" xml:space="preserve">
+    <value>Steam++ V1</value>
+    <comment>Author=kotovasia5120</comment>
+  </data>
+  <data name="WattToolKitV2" xml:space="preserve">
+    <value>WattToolKit V2 </value>
+    <comment>Author=kotovasia5120</comment>
+  </data>
+  <data name="WinAuth" xml:space="preserve">
+    <value>WinAuth </value>
+    <comment>Author=kotovasia5120</comment>
+  </data>
+  <data name="Error_BaseDir_StartsWith_Temp" xml:space="preserve">
+    <value>This program cannot be run in a temporary folder. Please copy or unzip all files to another path before starting the program.</value>
+    <comment>Author=kotovasia5120</comment>
+  </data>
+  <data name="Error_CloudAuthMaximumQuantity___" xml:space="preserve">
+    <value>The number of cloud tokens has reached the upper limit of {0}. The number of cloud tokens is {0}. The number of {0} being uploaded is</value>
+    <comment>Author=kotovasia5120</comment>
+  </data>
+  <data name="Error_NotSupportedFileImport" xml:space="preserve">
+    <value>The import method for this file type is not supported.</value>
+    <comment>Author=kotovasia5120</comment>
+  </data>
+  <data name="Error_TokenPasswordRemovedFailed" xml:space="preserve">
+    <value>Token password protection removal failed.</value>
+    <comment>Author=kotovasia5120</comment>
+  </data>
+  <data name="Error_TokenPasswordSetFailed" xml:space="preserve">
+    <value>Token password protection setup failed.</value>
+    <comment>Author=kotovasia5120</comment>
+  </data>
+  <data name="GeneralAuth_Name" xml:space="preserve">
+    <value>Token Name</value>
+    <comment>Author=kotovasia5120</comment>
+  </data>
+  <data name="PersonalCenter" xml:space="preserve">
+    <value>Personal Center</value>
+    <comment>Author=kotovasia5120</comment>
+  </data>
+  <data name="Plugin_OnlyLoadOfficePlugins" xml:space="preserve">
+    <value>Only load official plugins</value>
+    <comment>Author=kotovasia5120</comment>
+  </data>
+  <data name="Settings_Plugin_OnlyLoadOfficial" xml:space="preserve">
+    <value>Only load official plugins</value>
+    <comment>Author=kotovasia5120</comment>
+  </data>
+  <data name="Settings_Proxy_SystemProxyPortId" xml:space="preserve">
+    <value>Proxy listening port</value>
+    <comment>Author=kotovasia5120</comment>
+  </data>
+  <data name="Settings_Proxy_SystemProxyPortId_Tip" xml:space="preserve">
+    <value>Only valid for PAC and System proxy modes</value>
+    <comment>Author=kotovasia5120</comment>
+  </data>
+  <data name="Settings_UI_EnableDesktopBackground_Error_" xml:space="preserve">
+    <value>Enabling this feature when the background transparent material is {0} is not supported</value>
+    <comment>Author=kotovasia5120</comment>
+  </data>
+  <data name="SubHeader_SecurityIssues_" xml:space="preserve">
+    <value>SubHeader_SecurityIssues_</value>
+    <comment>Author=kotovasia5120</comment>
+  </data>
+  <data name="Success_AuthloadedSuccessfully" xml:space="preserve">
+    <value>Token loaded successfully</value>
+    <comment>Author=kotovasia5120</comment>
+  </data>
+  <data name="Success_AuthPasswordRemovedSuccessfully" xml:space="preserve">
+    <value>Token password protection removed successfully.</value>
+    <comment>Author=kotovasia5120</comment>
+  </data>
+  <data name="Success_AuthPasswordSetSuccessfully" xml:space="preserve">
+    <value>Token password protection is set successfully.</value>
+    <comment>Author=kotovasia5120</comment>
+  </data>
+  <data name="Success_CloudSynchronizationSuccessful" xml:space="preserve">
+    <value>Cloud synchronization successful: {0}</value>
+    <comment>Author=kotovasia5120</comment>
+  </data>
+  <data name="Title_AuthEncryption" xml:space="preserve">
+    <value>Token encryption help</value>
+    <comment>Author=kotovasia5120</comment>
+  </data>
+  <data name="Warning_PlatformDeletionNotAllowed_" xml:space="preserve">
+    <value>Deletion of {0} platform is not allowed</value>
+    <comment>Author=kotovasia5120</comment>
+  </data>
+  <data name="Error_AuthProtectFailed_" xml:space="preserve">
+    <value>Token local computer protection {0} failed</value>
+    <comment>Author=kotovasia5120</comment>
+  </data>
+  <data name="LocalAuth_SteamAppAddSuccess" xml:space="preserve">
+    <value>Token added successfully</value>
+    <comment>Author=kotovasia5120</comment>
+  </data>
+  <data name="LocalAuth_SteamGuardImport" xml:space="preserve">
+    <value>Importing a token using Steam Guard's portable data</value>
+    <comment>Author=kotovasia5120</comment>
+  </data>
+  <data name="LocalAuth_WattToolKitV1Import" xml:space="preserve">
+    <value>Import tokens using the file exported from the Steam++ V1 toolbox</value>
+    <comment>Author=kotovasia5120</comment>
+  </data>
+  <data name="LocalAuth_WattToolKitV2Import" xml:space="preserve">
+    <value>Import tokens using files exported from the WattToolKit V2 toolkit</value>
+    <comment>Author=kotovasia5120</comment>
+  </data>
+  <data name="OSExitMode_Hibernate" xml:space="preserve">
+    <value>Hibernation</value>
+    <comment>Author=MicrosoftTranslator</comment>
+  </data>
+  <data name="Plugin_Author" xml:space="preserve">
+    <value>Author: {0}</value>
+    <comment>Author=kotovasia5120</comment>
+  </data>
+  <data name="Steam_AuthFileImportPath" xml:space="preserve">
+    <value>Token file import path</value>
+    <comment>Author=kotovasia5120</comment>
+  </data>
+  <data name="Success_AuthProtectSuccessfully_" xml:space="preserve">
+    <value>Token local computer protection {0} successful</value>
+    <comment>Author=kotovasia5120</comment>
+  </data>
+  <data name="Success_AuthUnbindSuccessful" xml:space="preserve">
+    <value>Token unbinding successful</value>
+    <comment>Author=kotovasia5120</comment>
+  </data>
+  <data name="UseHelp" xml:space="preserve">
+    <value>Help</value>
+    <comment>Author=kotovasia5120</comment>
+  </data>
+  <data name="Auth_Sync_DeleteTime" xml:space="preserve">
+    <value>Auth_Sync_DeleteTime</value>
+    <comment>Author=kotovasia5120</comment>
+  </data>
+  <data name="CommunityFix_ProxyLog" xml:space="preserve">
+    <value>Acceleration log</value>
+    <comment>Author=kotovasia5120</comment>
+  </data>
+  <data name="CreateShortcutInfo" xml:space="preserve">
+    <value>CreateShortcutInfo</value>
+    <comment>Author=kotovasia5120</comment>
+  </data>
+  <data name="Error_ModifyJsonFileFailed" xml:space="preserve">
+    <value>Failed to modify JSON file</value>
+    <comment>Author=kotovasia5120</comment>
+  </data>
+  <data name="Error_WriteRegistryFailed" xml:space="preserve">
+    <value>Failed to write to Windows registry</value>
+    <comment>Author=kotovasia5120</comment>
+  </data>
+  <data name="ExportAll" xml:space="preserve">
+    <value>Export All</value>
+    <comment>Author=kotovasia5120</comment>
+  </data>
+  <data name="GameAccelerator_Accelerate" xml:space="preserve">
+    <value>Accelerate</value>
+    <comment>Author=kotovasia5120</comment>
+  </data>
+  <data name="GameAccelerator_ChangeArea" xml:space="preserve">
+    <value>GameAccelerator_ChangeArea</value>
+    <comment>Author=kotovasia5120</comment>
+  </data>
+  <data name="GameAccelerator_SetShowWattWindow" xml:space="preserve">
+    <value>Wake up the Watt accelerator interface after acceleration</value>
+    <comment>Author=kotovasia5120</comment>
+  </data>
+  <data name="GameAccelerator_Stop" xml:space="preserve">
+    <value>stop</value>
+    <comment>Author=kotovasia5120</comment>
+  </data>
+  <data name="GameAccount_SaveCurrentAccount" xml:space="preserve">
+    <value>Save the current login account</value>
+    <comment>Author=kotovasia5120</comment>
+  </data>
+  <data name="Info_LoadingAgentTakesTime____" xml:space="preserve">
+    <value>Loading proxy service data took: {0}ms, IsSuccess: {1}, Code: {2}, Count: {3}</value>
+    <comment>Author=kotovasia5120</comment>
+  </data>
+  <data name="JoinUs" xml:space="preserve">
+    <value>Join us</value>
+    <comment>Author=kotovasia5120</comment>
+  </data>
+  <data name="LocalAuth_JoinSteamAuthenticator_InitLocalAuthenticatorError" xml:space="preserve">
+    <value>Error initializing local token</value>
+    <comment>Author=kotovasia5120</comment>
+  </data>
+  <data name="LocalAuth_JoinSteamAuthenticator_SaveLocalAuthenticatorError" xml:space="preserve">
+    <value>Failed to save token</value>
+    <comment>Author=kotovasia5120</comment>
+  </data>
+  <data name="OSExitMode_Shutdown" xml:space="preserve">
+    <value>Shutdown</value>
+    <comment>Author=MicrosoftTranslator</comment>
+  </data>
+  <data name="Plugin_Delete" xml:space="preserve">
+    <value>Delete</value>
+    <comment>Author=kotovasia5120</comment>
+  </data>
+  <data name="Stop" xml:space="preserve">
+    <value>stop</value>
+    <comment>Author=kotovasia5120</comment>
+  </data>
+  <data name="Success_SavedSuccessfully_" xml:space="preserve">
+    <value>Saved successfully {0}</value>
+    <comment>Author=kotovasia5120</comment>
+  </data>
+  <data name="Title_DeleteAuth" xml:space="preserve">
+    <value>Delete the token</value>
+    <comment>Author=kotovasia5120</comment>
+  </data>
+  <data name="Auth_FixedDisplay" xml:space="preserve">
+    <value>Fixed display</value>
+    <comment>Author=kotovasia5120</comment>
+  </data>
+  <data name="CommunityFix_SetAsSystemPACProxyFail" xml:space="preserve">
+    <value>Failed to enable PAC proxy</value>
+    <comment>Author=kotovasia5120</comment>
+  </data>
+  <data name="CommunityFix_SetAsSystemProxyFail" xml:space="preserve">
+    <value>Failed to enable system proxy</value>
+    <comment>Author=kotovasia5120</comment>
+  </data>
+  <data name="CommunityFix_SetupCertificate_Fail" xml:space="preserve">
+    <value>Failed to install CA certificate</value>
+    <comment>Author=kotovasia5120</comment>
+  </data>
+  <data name="CommunityFix_SetupCertificate_Success" xml:space="preserve">
+    <value>The CA certificate was installed successfully</value>
+    <comment>Author=kotovasia5120</comment>
+  </data>
+  <data name="Error_CopyFileFailed" xml:space="preserve">
+    <value>Failed to copy file!</value>
+    <comment>Author=kotovasia5120</comment>
+  </data>
+  <data name="Error_CurrentSteamPathIncorrect" xml:space="preserve">
+    <value>The current Steam path is incorrect</value>
+    <comment>Author=kotovasia5120</comment>
+  </data>
+  <data name="Error_DataNotUnified" xml:space="preserve">
+    <value>Synchronization failed, data not unified</value>
+    <comment>Author=kotovasia5120</comment>
+  </data>
+  <data name="Error_DelCloudData" xml:space="preserve">
+    <value>Failed to delete cloud data synchronously</value>
+    <comment>Author=kotovasia5120</comment>
+  </data>
+  <data name="Error_Exception_" xml:space="preserve">
+    <value>Exception: {0}</value>
+    <comment>Author=kotovasia5120</comment>
+  </data>
+  <data name="Error_FailedToSynchronizeAuth" xml:space="preserve">
+    <value>Sync to cloud token failed</value>
+    <comment>Author=kotovasia5120</comment>
+  </data>
+  <data name="Error_PageFault" xml:space="preserve">
+    <value>Something went wrong and this page can't be opened</value>
+    <comment>Author=kotovasia5120</comment>
+  </data>
+  <data name="Error_StartProcessFailed_" xml:space="preserve">
+    <value>Failed to start the {0} process</value>
+    <comment>Author=kotovasia5120</comment>
+  </data>
+  <data name="Error_UpdateCloudData" xml:space="preserve">
+    <value>Failed to synchronize and update cloud data</value>
+    <comment>Author=kotovasia5120</comment>
+  </data>
+  <data name="ExportAuth" xml:space="preserve">
+    <value>Export Token</value>
+    <comment>Author=kotovasia5120</comment>
+  </data>
+  <data name="FixedTop" xml:space="preserve">
+    <value>FixedTop</value>
+    <comment>Author=kotovasia5120</comment>
+  </data>
+  <data name="Game_LayoutWay" xml:space="preserve">
+    <value>Layout</value>
+    <comment>Author=kotovasia5120</comment>
+  </data>
+  <data name="GameAccelerator_InstallWattAccelerator" xml:space="preserve">
+    <value>Install the Watt Accelerator plugin</value>
+    <comment>Author=kotovasia5120</comment>
+  </data>
+  <data name="GameAccelerator_UninstallWattAccelerator" xml:space="preserve">
+    <value>Uninstall the Watt accelerator plugin</value>
+    <comment>Author=kotovasia5120</comment>
+  </data>
+  <data name="GameAccount_StartProcessWay" xml:space="preserve">
+    <value>Start process mode</value>
+    <comment>Author=kotovasia5120</comment>
+  </data>
+  <data name="GameList_FindAppsText" xml:space="preserve">
+    <value>{0} applications found</value>
+    <comment>Author=kotovasia5120</comment>
+  </data>
+  <data name="GameList_NavScreenshotToSteamView" xml:space="preserve">
+    <value>Managing Screenshots in the Steam Client</value>
+    <comment>Author=kotovasia5120</comment>
+  </data>
+  <data name="GeneralAuth_ImportText" xml:space="preserve">
+    <value>Importing text</value>
+    <comment>Author=kotovasia5120</comment>
+  </data>
+  <data name="Idle_GetBadgesError" xml:space="preserve">
+    <value>Failed to obtain badge information</value>
+    <comment>Author=kotovasia5120</comment>
+  </data>
+  <data name="Idle_OpenAutoNext" xml:space="preserve">
+    <value>Enable fast card drop mode</value>
+    <comment>Author=kotovasia5120</comment>
+  </data>
+  <data name="Info_AccountAlreadyLogin" xml:space="preserve">
+    <value>Already logged in with this account</value>
+    <comment>Author=kotovasia5120</comment>
+  </data>
+  <data name="Info_AlreadyTheCurrentAccount" xml:space="preserve">
+    <value>Already the currently logged in account (no operation is performed)</value>
+    <comment>Author=kotovasia5120</comment>
+  </data>
+  <data name="Info_AuthMaximumQuantity" xml:space="preserve">
+    <value>The local token limit has been reached</value>
+    <comment>Author=kotovasia5120</comment>
+  </data>
+  <data name="Launch" xml:space="preserve">
+    <value>Launch</value>
+    <comment>Author=kotovasia5120</comment>
+  </data>
+  <data name="LocalAuth_AuthTrade_SelectNull" xml:space="preserve">
+    <value>No transaction is currently selected</value>
+    <comment>Author=kotovasia5120</comment>
+  </data>
+  <data name="LocalAuth_ExportAuth_Error_" xml:space="preserve">
+    <value>Failed to export data. Error code: {0}</value>
+    <comment>Author=kotovasia5120</comment>
+  </data>
+  <data name="LocalAuth_JoinSteamAuthenticatorDesc" xml:space="preserve">
+    <value>Use the same token data import method in Watt Toolkit as in the official Steam App (recommended ✨)</value>
+    <comment>Author=kotovasia5120</comment>
+  </data>
+  <data name="OpenSourceLibrary" xml:space="preserve">
+    <value>Open Source Libraries</value>
+    <comment>Author=kotovasia5120</comment>
+  </data>
+  <data name="PersonalSafe" xml:space="preserve">
+    <value>Security Settings</value>
+    <comment>Author=kotovasia5120</comment>
+  </data>
+  <data name="Plugin_IllegalAuthor" xml:space="preserve">
+    <value>Illegal characters exist</value>
+    <comment>Author=kotovasia5120</comment>
+  </data>
+  <data name="Plugin_InstalledPlugins" xml:space="preserve">
+    <value>Installed plugins</value>
+    <comment>Author=kotovasia5120</comment>
+  </data>
+  <data name="Plugin_SafeMode" xml:space="preserve">
+    <value>Safe Mode</value>
+    <comment>Author=kotovasia5120</comment>
+  </data>
+  <data name="Settings_Plugin_SafeMode" xml:space="preserve">
+    <value>Safe Mode</value>
+    <comment>Author=kotovasia5120</comment>
+  </data>
+  <data name="Settings_Plugin_WasInstalled" xml:space="preserve">
+    <value>Installed plugins</value>
+    <comment>Author=kotovasia5120</comment>
+  </data>
+  <data name="Settings_UI_StartDefaultPage" xml:space="preserve">
+    <value>The default page to open at startup</value>
+    <comment>Author=kotovasia5120</comment>
+  </data>
+  <data name="StartSteam" xml:space="preserve">
+    <value>Launch Steam</value>
+    <comment>Author=kotovasia5120</comment>
+  </data>
+  <data name="SteamIdle_DroppedCardsCountTip_" xml:space="preserve">
+    <value>{0} cards dropped</value>
+    <comment>Author=kotovasia5120</comment>
+  </data>
+  <data name="SteamIdle_IdleAppTags_" xml:space="preserve">
+    <value>{0} hours played
+{1} remaining cards dropped
+Average card price ￥{2}</value>
+    <comment>Author=kotovasia5120</comment>
+  </data>
+  <data name="SteamIdle_UserNextExpString_" xml:space="preserve">
+    <value>You need {1} more experience points to reach level {0}</value>
+    <comment>Author=kotovasia5120</comment>
+  </data>
+  <data name="Success_DelCloudData" xml:space="preserve">
+    <value>Successfully deleted cloud data synchronously</value>
+    <comment>Author=kotovasia5120</comment>
+  </data>
+  <data name="Success_DeletePlatformAccount__" xml:space="preserve">
+    <value>The {0} platform {1} account has been deleted</value>
+    <comment>Author=kotovasia5120</comment>
+  </data>
+  <data name="Success_UpdateCloudData" xml:space="preserve">
+    <value>Successfully updated the cloud data</value>
+    <comment>Author=kotovasia5120</comment>
+  </data>
+  <data name="User_LoginUnexpectedPrompt" xml:space="preserve">
+    <value>If there is an unexpected problem during the login process, follow the prompts on the web page.</value>
+    <comment>Author=kotovasia5120</comment>
+  </data>
+  <data name="ViewInStore" xml:space="preserve">
+    <value>View in the Plagin Store</value>
+    <comment>Author=kotovasia5120</comment>
+  </data>
+  <data name="Warning_PasswordError" xml:space="preserve">
+    <value>Wrong password, please try again</value>
+    <comment>Author=kotovasia5120</comment>
+  </data>
+  <data name="Warning_PleaseWaitExecuteFinish" xml:space="preserve">
+    <value>An operation is already in progress, please wait for it to finish.</value>
+    <comment>Author=kotovasia5120</comment>
+  </data>
+  <data name="Warning_TerminationAllAuth___" xml:space="preserve">
+    <value>{0} all tokens have been terminated, {1} tokens have been successfully operated, {2} tokens have failed to operate</value>
+    <comment>Author=kotovasia5120</comment>
+  </data>
+  <data name="Auth_RemovePasswordProtect" xml:space="preserve">
+    <value>Remove custom password protection</value>
+    <comment>Author=kotovasia5120</comment>
+  </data>
+  <data name="CommunityFix_AccEmpty" xml:space="preserve">
+    <value>No acceleration is enabled!!</value>
+    <comment>Author=kotovasia5120</comment>
+  </data>
+  <data name="CommunityFix_ItemsEmpty" xml:space="preserve">
+    <value>Failed to obtain acceleration information, please check whether the program can connect to the Internet normally</value>
+    <comment>Author=kotovasia5120</comment>
+  </data>
+  <data name="CommunityFix_Starting" xml:space="preserve">
+    <value>Starting acceleration...</value>
+    <comment>Author=kotovasia5120</comment>
+  </data>
+  <data name="CommunityFix_SubProcessFileNotExist" xml:space="preserve">
+    <value>The network acceleration subprocess file does not exist</value>
+    <comment>Author=kotovasia5120</comment>
+  </data>
+  <data name="EnableAccelerationPrompt" xml:space="preserve">
+    <value>Tip: Don’t forget to accelerate first</value>
+    <comment>Author=kotovasia5120</comment>
+  </data>
+  <data name="Error_AnswerIncorrect" xml:space="preserve">
+    <value>Wrong answer, please try again</value>
+    <comment>Author=kotovasia5120</comment>
+  </data>
+  <data name="Error_AuthUnbindFailed" xml:space="preserve">
+    <value>Unbinding token failed</value>
+    <comment>Author=kotovasia5120</comment>
+  </data>
+  <data name="Error_CannotConnectGoogleServer" xml:space="preserve">
+    <value>Error_CannotConnectGoogleServer</value>
+    <comment>Author=kotovasia5120</comment>
+  </data>
+  <data name="Error_CannotConnectTokenVerificationServer" xml:space="preserve">
+    <value>Error_CannotConnectTokenVerificationServer</value>
+    <comment>Author=kotovasia5120</comment>
+  </data>
+  <data name="Error_CannotFindAccountFile_" xml:space="preserve">
+    <value>Unable to find the account file for {0}, failed to add</value>
+    <comment>Author=kotovasia5120</comment>
+  </data>
+  <data name="Error_DelFileFailedRunning" xml:space="preserve">
+    <value>Unable to delete some files (maybe the program is running?)</value>
+    <comment>Author=kotovasia5120</comment>
+  </data>
+  <data name="Error_EndProcessFailed_" xml:space="preserve">
+    <value>Failed to finish {0} process</value>
+    <comment>Author=kotovasia5120</comment>
+  </data>
+  <data name="Error_IncompatibleOS" xml:space="preserve">
+    <value>This application is only compatible with Windows 11 and Windows 10 version 1809 (OS Build 17763) or later</value>
+    <comment>Author=kotovasia5120</comment>
+  </data>
+  <data name="Error_IncorrectPlatformPathSelection_" xml:space="preserve">
+    <value>{0} The platform path is not selected correctly</value>
+    <comment>Author=kotovasia5120</comment>
+  </data>
+  <data name="Error_OperateRegistryFilesFailed" xml:space="preserve">
+    <value>Failed to find or read the saved registry file!</value>
+    <comment>Author=kotovasia5120</comment>
+  </data>
+  <data name="Error_PleaseEnterAnswer" xml:space="preserve">
+    <value>Please enter the answer to the cloud password</value>
+    <comment>Author=kotovasia5120</comment>
+  </data>
+  <data name="Error_PleaseEnterTelCode" xml:space="preserve">
+    <value>Please enter the mobile verification code.</value>
+    <comment>Author=kotovasia5120</comment>
+  </data>
+  <data name="Error_PleaseLoginWattToolKit" xml:space="preserve">
+    <value>Please log in to WattToolKit first</value>
+    <comment>Author=kotovasia5120</comment>
+  </data>
+  <data name="Error_ScanQRCodeFailed_" xml:space="preserve">
+    <value>Failed to scan the webpage QR code: {0}</value>
+    <comment>Author=kotovasia5120</comment>
+  </data>
+  <data name="Error_SetSecurityIssuesFailed" xml:space="preserve">
+    <value>Failed to set cloud password</value>
+    <comment>Author=kotovasia5120</comment>
+  </data>
+  <data name="Error_UnknownLogin_" xml:space="preserve">
+    <value>Login error: {0}</value>
+    <comment>Author=kotovasia5120</comment>
+  </data>
+  <data name="FAQ" xml:space="preserve">
+    <value>FAQ</value>
+    <comment>Author=kotovasia5120</comment>
+  </data>
+  <data name="FileNumber_" xml:space="preserve">
+    <value>{0} files</value>
+    <comment>Author=kotovasia5120</comment>
+  </data>
+  <data name="FilePathNotExist" xml:space="preserve">
+    <value>The file path does not exist</value>
+    <comment>Author=kotovasia5120</comment>
+  </data>
+  <data name="GameAccelerator" xml:space="preserve">
+    <value>Game Acceleration</value>
+    <comment>Author=kotovasia5120</comment>
+  </data>
+  <data name="GameAccelerator_AccelerateAreaSelectTip" xml:space="preserve">
+    <value>Please select the region to be accelerated first</value>
+    <comment>Author=kotovasia5120</comment>
+  </data>
+  <data name="GameAccelerator_GamesEmptyTip" xml:space="preserve">
+    <value>The accelerated game list was not obtained, please search and add</value>
+    <comment>Author=kotovasia5120</comment>
+  </data>
+  <data name="GameAccelerator_ImmediatelyAccelerate" xml:space="preserve">
+    <value>Speed ​​up now</value>
+    <comment>Author=kotovasia5120</comment>
+  </data>
+  <data name="GameAccelerator_SearchGame" xml:space="preserve">
+    <value>Search Games</value>
+    <comment>Author=kotovasia5120</comment>
+  </data>
+  <data name="GameAccelerator_ShowWattAccelerator" xml:space="preserve">
+    <value>Show Watt Accelerator</value>
+    <comment>Author=kotovasia5120</comment>
+  </data>
+  <data name="GameAccount_AddNewAccount" xml:space="preserve">
+    <value>Add New Account</value>
+    <comment>Author=kotovasia5120</comment>
+  </data>
+  <data name="GameAccount_EndProcessWay" xml:space="preserve">
+    <value>End process mode</value>
+    <comment>Author=kotovasia5120</comment>
+  </data>
+  <data name="GameList_RunOtherAppCount_" xml:space="preserve">
+    <value>The idle time list contains {0} games that do not belong to the current Steam account</value>
+    <comment>Author=kotovasia5120</comment>
+  </data>
+  <data name="GameList_SteamShutdown_AppsEmpty" xml:space="preserve">
+    <value>Steam download game data not obtained</value>
+    <comment>Author=kotovasia5120</comment>
+  </data>
+  <data name="GeneralAuth_Code" xml:space="preserve">
+    <value>Generate Code</value>
+    <comment>Author=kotovasia5120</comment>
+  </data>
+  <data name="Idle_Complete" xml:space="preserve">
+    <value>Card spawning completed. No cards left to spawn. {0} cards dropped. It took {1} hours.</value>
+    <comment>Author=kotovasia5120</comment>
+  </data>
+  <data name="Idle_LoaingTips" xml:space="preserve">
+    <value>The operation is in progress. Please try again later.</value>
+    <comment>Author=kotovasia5120</comment>
+  </data>
+  <data name="Idle_NeedLoginSteam" xml:space="preserve">
+    <value>Please log in to your Steam account first</value>
+    <comment>Author=kotovasia5120</comment>
+  </data>
+  <data name="Idle_NeedParentalPIN" xml:space="preserve">
+    <value>Your account may have activated family monitoring. Please enter the PIN code to exit family monitoring. The current operation will not affect monitoring of other devices.</value>
+    <comment>Author=kotovasia5120</comment>
+  </data>
+  <data name="Idle_OperationSuccess" xml:space="preserve">
+    <value>The card hanging operation is successful</value>
+    <comment>Author=kotovasia5120</comment>
+  </data>
+  <data name="Idle_PleaseStartIdle" xml:space="preserve">
+    <value>Please enable Steam first.</value>
+    <comment>Author=kotovasia5120</comment>
+  </data>
+  <data name="Idle_RuningCount" xml:space="preserve">
+    <value>Running {0}/{1}</value>
+    <comment>Author=kotovasia5120</comment>
+  </data>
+  <data name="Idle_StartError" xml:space="preserve">
+    <value>Failed to start the game, please check if Steam acceleration is turned on</value>
+    <comment>Author=kotovasia5120</comment>
+  </data>
+  <data name="Idle_StopAutoNext" xml:space="preserve">
+    <value>Disable fast card drop mode</value>
+    <comment>Author=kotovasia5120</comment>
+  </data>
+  <data name="Info_PleaseEnterImportText" xml:space="preserve">
+    <value>Please enter the "Import text".</value>
+    <comment>Author=kotovasia5120</comment>
+  </data>
+  <data name="Info_PleaseVerifyFirstAuthCode" xml:space="preserve">
+    <value>Please verify that the token Code is correct before clicking Import.</value>
+    <comment>Author=kotovasia5120</comment>
+  </data>
+  <data name="LocalAuth_AuthTrade_ConfirmTip_" xml:space="preserve">
+    <value>{0} all transactions in progress...</value>
+    <comment>Comment=同意 or 取消;</comment>
+  </data>
+  <data name="LocalAuth_AuthTrade_MessageBoxTip_" xml:space="preserve">
+    <value>Are you sure you want to {0} all the currently selected transaction quotes with one click?</value>
+    <comment>Comment=同意 or 取消;</comment>
+  </data>
+  <data name="LocalAuth_DeleteAuthTip2" xml:space="preserve">
+    <value>Are you sure you want to permanently delete this token? You will completely lose the token data. It is highly recommended that you "unbind the token" before performing this operation.</value>
+    <comment>Author=kotovasia5120</comment>
+  </data>
+  <data name="LocalAuth_GoogleImport" xml:space="preserve">
+    <value>Import the token using the key or QR code generated when adding the Google token</value>
+    <comment>Author=kotovasia5120</comment>
+  </data>
+  <data name="LocalAuth_HOTPImport" xml:space="preserve">
+    <value>Generic key import token generated when adding HOTP, TOTP tokens</value>
+    <comment>Author=kotovasia5120</comment>
+  </data>
+  <data name="LocalAuth_Import" xml:space="preserve">
+    <value>{0} Import</value>
+    <comment>Author=kotovasia5120</comment>
+  </data>
+  <data name="LocalAuth_Import_DecodePrivateKeyError" xml:space="preserve">
+    <value>{0} Key parsing failed, please check whether the key is correct</value>
+    <comment>Author=kotovasia5120</comment>
+  </data>
+  <data name="LocalAuth_ImportSuccessTip_" xml:space="preserve">
+    <value>{0} files imported successfully</value>
+    <comment>Author=kotovasia5120</comment>
+  </data>
+  <data name="LocalAuth_JoinSteamAuthenticator_ConfirmSteamAppAuthenticatorCode" xml:space="preserve">
+    <value>Confirm Steam App Token Verification Code</value>
+    <comment>Author=kotovasia5120</comment>
+  </data>
+  <data name="LocalAuth_JoinSteamAuthenticator_InputSteamAppAuthenticatorCode" xml:space="preserve">
+    <value>Please enter the token verification code displayed in the Steam App</value>
+    <comment>Author=kotovasia5120</comment>
+  </data>
+  <data name="LocalAuth_JoinSteamAuthenticator_InputSteamAppAuthenticatorCodeTips" xml:space="preserve">
+    <value>Open the Steam App and bind the token to the server. Enter the verification code on this page.</value>
+    <comment>Author=kotovasia5120</comment>
+  </data>
+  <data name="LocalAuth_JoinSteamAuthenticator_LoginRequestError" xml:space="preserve">
+    <value>Login request error</value>
+    <comment>Author=kotovasia5120</comment>
+  </data>
+  <data name="LocalAuth_JoinSteamAuthenticator_ParseUser2FAInfoError" xml:space="preserve">
+    <value>Failed to parse user Steam Guard information</value>
+    <comment>Author=kotovasia5120</comment>
+  </data>
+  <data name="LocalAuth_JoinSteamAuthenticator_RequestUser2FAInfoError" xml:space="preserve">
+    <value>Failed to get user Steam Guard information</value>
+    <comment>Author=kotovasia5120</comment>
+  </data>
+  <data name="LocalAuth_JoinSteamAuthenticator_SteamGuardCodeEmptyError" xml:space="preserve">
+    <value>Please enter the current token verification code of the token bound to the Steam App</value>
+    <comment>Author=kotovasia5120</comment>
+  </data>
+  <data name="LocalAuth_MicrosoftImport" xml:space="preserve">
+    <value>Import the token using the key or QR code generated when adding the Microsoft token</value>
+    <comment>Author=kotovasia5120</comment>
+  </data>
+  <data name="LocalAuth_Steam2FACodeTip" xml:space="preserve">
+    <value>Please enter your Steam Guard verification code, or confirm with your mobile token and click Continue.</value>
+    <comment>Author=kotovasia5120</comment>
+  </data>
+  <data name="MacTrustRootCertificateTips" xml:space="preserve">
+    <value>Please enter the system password in the pop-up console window to install the trust certificate. After the trust is completed, click the OK button to continue</value>
+    <comment>Author=kotovasia5120</comment>
+  </data>
+  <data name="Message_AreYouSureYouWantToDeleteTheAccount" xml:space="preserve">
+    <value>Are you sure you want to remove the {0} platform?</value>
+    <comment>Author=kotovasia5120</comment>
+  </data>
+  <data name="ModelContent_CancelAllTrade" xml:space="preserve">
+    <value>Are you sure you want to cancel all trade offers?</value>
+    <comment>Author=kotovasia5120</comment>
+  </data>
+  <data name="ModelContent_CancelTrade" xml:space="preserve">
+    <value>You will reject all offer requests in the list.</value>
+    <comment>Author=kotovasia5120</comment>
+  </data>
+  <data name="ModelContent_ConfirmAllTrade" xml:space="preserve">
+    <value>Are you sure you want to approve all transaction quotes?
+You will agree to all the quotation requests in the list.
+Once the transaction is confirmed, it cannot be revoked, please choose carefully.</value>
+    <comment>Author=kotovasia5120</comment>
+  </data>
+  <data name="ModelContent_ConfirmTrade___" xml:space="preserve">
+    <value>This will remove all trade information from the following list.</value>
+    <comment>Author=kotovasia5120</comment>
+  </data>
+  <data name="ModelContent_ConfirmTrade2_" xml:space="preserve">
+    <value>You have not yet asked {0} to select any items in exchange for your items. If {0} accepts this trade, you will lose the items you offered but will receive nothing.</value>
+    <comment>Author=kotovasia5120</comment>
+  </data>
+  <data name="ModelContent_ConfirmUnbinding" xml:space="preserve">
+    <value>Are you sure you want to unbind this token from your Steam account? This token will become invalid after unbinding. You can delete this token after unbinding.</value>
+    <comment>Author=kotovasia5120</comment>
+  </data>
+  <data name="ModelContent_LoginNewUser" xml:space="preserve">
+    <value>This operation will end the current platform process and remove the current account login status to jump to the new account login. Are you sure you want to continue?</value>
+    <comment>Author=kotovasia5120</comment>
+  </data>
+  <data name="ModelContent_SecretKey_" xml:space="preserve">
+    <value>{0} Token SecretKey</value>
+    <comment>Author=kotovasia5120</comment>
+  </data>
+  <data name="MyOrder" xml:space="preserve">
+    <value>My Orders</value>
+    <comment>Author=kotovasia5120</comment>
+  </data>
+  <data name="NewFeatureDevelopment" xml:space="preserve">
+    <value>New features are in development...</value>
+    <comment>Author=kotovasia5120</comment>
+  </data>
+  <data name="Notice_Tray_Content_" xml:space="preserve">
+    <value>Received {0} new messages. Please check My Messages in the app for details.</value>
+    <comment>Author=kotovasia5120</comment>
+  </data>
+  <data name="OnHook" xml:space="preserve">
+    <value>OnHook</value>
+    <comment>Author=kotovasia5120</comment>
+  </data>
+  <data name="OpenLink" xml:space="preserve">
+    <value>Open Link</value>
+    <comment>Author=kotovasia5120</comment>
+  </data>
+  <data name="OpenMainWindow" xml:space="preserve">
+    <value>Open the main panel</value>
+    <comment>Author=kotovasia5120</comment>
+  </data>
+  <data name="OpenOfficialWebsite" xml:space="preserve">
+    <value>Open the official website</value>
+    <comment>Author=kotovasia5120</comment>
+  </data>
+  <data name="OSExitMode_Sleep" xml:space="preserve">
+    <value>OSExitMode_Sleep</value>
+    <comment>Author=MicrosoftTranslator</comment>
+  </data>
+  <data name="Plugin_DeleteComfirm" xml:space="preserve">
+    <value>Do you want to delete the {0} plugin?</value>
+    <comment>Author=kotovasia5120</comment>
+  </data>
+  <data name="Plugin_DeleteSuccess" xml:space="preserve">
+    <value>{0} plugin deleted successfully</value>
+    <comment>Author=kotovasia5120</comment>
+  </data>
+  <data name="Plugin_FileError" xml:space="preserve">
+    <value>File not found</value>
+    <comment>Author=kotovasia5120</comment>
+  </data>
+  <data name="Plugin_ManageAllInstalledPlugins" xml:space="preserve">
+    <value>Manage all installed plugins</value>
+    <comment>Author=kotovasia5120</comment>
+  </data>
+  <data name="Plugin_OfficialAuthor_" xml:space="preserve">
+    <value>{0} Official</value>
+    <comment>Author=kotovasia5120</comment>
+  </data>
+  <data name="Plugin_OpenCacheFolder" xml:space="preserve">
+    <value>Open the plugin cache folder</value>
+    <comment>Author=kotovasia5120</comment>
+  </data>
+  <data name="Plugin_OpenFolder" xml:space="preserve">
+    <value>Open the plugin folder</value>
+    <comment>Author=kotovasia5120</comment>
+  </data>
+  <data name="Plugin_Store" xml:space="preserve">
+    <value>Plugin Store</value>
+    <comment>Author=kotovasia5120</comment>
+  </data>
+  <data name="Plugin_UnknownAuthor" xml:space="preserve">
+    <value>unknown</value>
+    <comment>Author=kotovasia5120</comment>
+  </data>
+  <data name="Plugin_Version" xml:space="preserve">
+    <value>Version Number:</value>
+    <comment>Author=kotovasia5120</comment>
+  </data>
+  <data name="RatingsAndReviews" xml:space="preserve">
+    <value>Rate and review</value>
+    <comment>Author=kotovasia5120</comment>
+  </data>
+  <data name="Retract" xml:space="preserve">
+    <value>Retract</value>
+    <comment>Author=kotovasia5120</comment>
+  </data>
+  <data name="SaveEditedAppInfo_AppsEmpty" xml:space="preserve">
+    <value>The game information that needs to be saved to Steam has not been obtained. Please edit the game information you want to modify first.</value>
+    <comment>Author=kotovasia5120</comment>
+  </data>
+  <data name="Script_BuildDownloadError__" xml:space="preserve">
+    <value>Script dependency download error: {0}
+{1}</value>
+    <comment>Author=kotovasia5120</comment>
+  </data>
+  <data name="Script_BuildError_" xml:space="preserve">
+    <value>Script binding error: {0}</value>
+    <comment>Author=kotovasia5120</comment>
+  </data>
+  <data name="Script_CacheDeleteError_" xml:space="preserve">
+    <value>Failed to delete cache file: {0}</value>
+    <comment>Author=kotovasia5120</comment>
+  </data>
+  <data name="Script_FileDeleteError_" xml:space="preserve">
+    <value>File deletion failed: {0}</value>
+    <comment>Author=kotovasia5120</comment>
+  </data>
+  <data name="Script_FileError_" xml:space="preserve">
+    <value>File not found, please check path {0}</value>
+    <comment>Author=kotovasia5120</comment>
+  </data>
+  <data name="Script_NoFile_" xml:space="preserve">
+    <value>Script: {0} file missing deleted</value>
+    <comment>Author=kotovasia5120</comment>
+  </data>
+  <data name="Script_NoFileDeleteError_" xml:space="preserve">
+    <value>Script: {0} file is missing, deletion failed, try to delete manually</value>
+    <comment>Author=kotovasia5120</comment>
+  </data>
+  <data name="Script_ReadFileError_" xml:space="preserve">
+    <value>Script reading exception, please check if there is any syntax error: {0}</value>
+    <comment>Author=kotovasia5120</comment>
+  </data>
+  <data name="Script_Settings" xml:space="preserve">
+    <value>Script Settings</value>
+    <comment>Author=kotovasia5120</comment>
+  </data>
+  <data name="Settings_InvalidConfigurationFile" xml:space="preserve">
+    <value>Invalid configuration file</value>
+    <comment>Author=kotovasia5120</comment>
+  </data>
+  <data name="Settings_Plugin_OpenCacheFolder" xml:space="preserve">
+    <value>Open the plugin cache folder</value>
+    <comment>Author=kotovasia5120</comment>
+  </data>
+  <data name="Settings_Plugin_OpenFolder" xml:space="preserve">
+    <value>Open the plugin folder</value>
+    <comment>Author=kotovasia5120</comment>
+  </data>
+  <data name="Settings_StartupAutoRun" xml:space="preserve">
+    <value>The program automatically runs when the system starts</value>
+    <comment>Author=kotovasia5120</comment>
+  </data>
+  <data name="Settings_StartupNoShowMainWindow" xml:space="preserve">
+    <value>After setting, the main window will no longer be displayed automatically when the program starts</value>
+    <comment>Author=kotovasia5120</comment>
+  </data>
+  <data name="Settings_Steam_AutoPopupMessage" xml:space="preserve">
+    <value>The program will automatically pop up relevant information notification after detecting that Steam is started</value>
+    <comment>Author=kotovasia5120</comment>
+  </data>
+  <data name="Settings_Steam_DefaultNoShowMainWindow" xml:space="preserve">
+    <value>After setting, the main window will not pop up by default when the program starts Steam</value>
+    <comment>Author=kotovasia5120</comment>
+  </data>
+  <data name="Settings_Steam_NoAutoUpdate" xml:space="preserve">
+    <value>After setting this parameter, Steam will not automatically check for updates when the program is started</value>
+    <comment>Author=kotovasia5120</comment>
+  </data>
+  <data name="Settings_UI_AccentColor" xml:space="preserve">
+    <value>Set the accent color displayed in the program</value>
+    <comment>Author=kotovasia5120</comment>
+  </data>
+  <data name="Settings_UI_CustomColor" xml:space="preserve">
+    <value>Custom Colors</value>
+    <comment>Author=kotovasia5120</comment>
+  </data>
+  <data name="Settings_UI_DefaultFonts" xml:space="preserve">
+    <value>Set the program's preferred font</value>
+    <comment>Author=kotovasia5120</comment>
+  </data>
+  <data name="Settings_UI_DefaultLanguage" xml:space="preserve">
+    <value>Set the preferred display language for the program</value>
+    <comment>Author=kotovasia5120</comment>
+  </data>
+  <data name="Settings_UI_ThemeStyle" xml:space="preserve">
+    <value>Set the program theme</value>
+    <comment>Author=kotovasia5120</comment>
+  </data>
+  <data name="Settings_UI_WindowBackgroundStyle" xml:space="preserve">
+    <value>Set the window background transparency effect and transparent material</value>
+    <comment>Author=kotovasia5120</comment>
+  </data>
+  <data name="SettingsModifiedRestartThisSoft" xml:space="preserve">
+    <value>The settings have been modified and will take effect after restarting the software</value>
+    <comment>Author=kotovasia5120</comment>
+  </data>
+  <data name="Steam_BindTel" xml:space="preserve">
+    <value>Bind mobile phone number</value>
+    <comment>Author=kotovasia5120</comment>
+  </data>
+  <data name="Steam_ConfirmEmailLink" xml:space="preserve">
+    <value>Confirm Email Link</value>
+    <comment>Author=kotovasia5120</comment>
+  </data>
+  <data name="Steam_CustomAuthName" xml:space="preserve">
+    <value>Custom token name</value>
+    <comment>Author=kotovasia5120</comment>
+  </data>
+  <data name="Steam_EmailConfirmation" xml:space="preserve">
+    <value>The phone number added is {0}. Please check your {1} mailbox. After receiving the Steam email, click "Add phone number" in the email to confirm, and then click the confirmation button.</value>
+    <comment>Author=kotovasia5120</comment>
+  </data>
+  <data name="Steam_PleaseEnterBindTel" xml:space="preserve">
+    <value>Please enter the mobile phone number you want to bind</value>
+    <comment>Author=kotovasia5120</comment>
+  </data>
+  <data name="SteamIdle_IdleNotRuning" xml:space="preserve">
+    <value>Card not activated</value>
+    <comment>Author=kotovasia5120</comment>
+  </data>
+  <data name="SteamIdle_IdleRuning" xml:space="preserve">
+    <value>Hanging card</value>
+    <comment>Author=kotovasia5120</comment>
+  </data>
+  <data name="SteamIdle_LoginSteamUserError" xml:space="preserve">
+    <value>The logged in account is inconsistent with the current Steam client account, which may cause card hanging problems.
+Please log out and switch the login account to the same as the Steam client account,
+or switch the Steam client login account to the same as the card hanging account!</value>
+    <comment>Author=kotovasia5120</comment>
+  </data>
+  <data name="SteamIdle_OpenAutoNextWarning" xml:space="preserve">
+    <value>The fast card drop mode will frequently switch card-free games. In order to prevent your friends from being bombarded with notification messages, please remember to change your Steam online status to invisible or offline!</value>
+    <comment>Author=kotovasia5120</comment>
+  </data>
+  <data name="SteamIdle_RemainingGames_" xml:space="preserve">
+    <value>{0} games can drop cards</value>
+    <comment>Author=kotovasia5120</comment>
+  </data>
+  <data name="SteamIdle_Settings" xml:space="preserve">
+    <value>SteamIdle_Settings</value>
+    <comment>Author=kotovasia5120</comment>
+  </data>
+  <data name="SteamIdle_SteamClientUserTips" xml:space="preserve">
+    <value>The account logged in needs to be consistent with the current Steam client login account</value>
+    <comment>Author=kotovasia5120</comment>
+  </data>
+  <data name="SteamIdle_UserExpString_" xml:space="preserve">
+    <value>{0} level, {1} experience points</value>
+    <comment>Author=kotovasia5120</comment>
+  </data>
+  <data name="SubHeader_FirstNeedToSetPlatformPath_" xml:space="preserve">
+    <value>The first time you use it, you need to set the {0} platform path</value>
+    <comment>Author=kotovasia5120</comment>
+  </data>
+  <data name="SubHeader_PleaseEnterTheAnswerAgain" xml:space="preserve">
+    <value>Please enter the "Cloud Secret Code Answer" again</value>
+    <comment>Author=kotovasia5120</comment>
+  </data>
+  <data name="SubHeader_SyncReSetAuth" xml:space="preserve">
+    <value>Resetting, please set a question and password for your Cloud Token. Please enter the "Cloud Token Question" first</value>
+    <comment>Author=kotovasia5120</comment>
+  </data>
+  <data name="Success_AuthUpload__" xml:space="preserve">
+    <value>{0} has uploaded {1} tokens to the cloud</value>
+    <comment>Author=kotovasia5120</comment>
+  </data>
+  <data name="Success_LocalAuthDelSuccessful" xml:space="preserve">
+    <value>Local token data deleted successfully</value>
+    <comment>Author=kotovasia5120</comment>
+  </data>
+  <data name="Success_LocalAuthUpdateSuccessful" xml:space="preserve">
+    <value>The local token name was modified successfully</value>
+    <comment>Author=kotovasia5120</comment>
+  </data>
+  <data name="Success_SwitchAccount__" xml:space="preserve">
+    <value>{0} has switched to account {1}</value>
+    <comment>Author=kotovasia5120</comment>
+  </data>
+  <data name="TelCode" xml:space="preserve">
+    <value>Mobile verification code</value>
+    <comment>Author=kotovasia5120</comment>
+  </data>
+  <data name="Title_AddAccount_" xml:space="preserve">
+    <value>Add new {0} account</value>
+    <comment>Author=kotovasia5120</comment>
+  </data>
+  <data name="Title_InputAuthPassword" xml:space="preserve">
+    <value>Please enter the token protection password</value>
+    <comment>Author=kotovasia5120</comment>
+  </data>
+  <data name="Title_LoginAccount_" xml:space="preserve">
+    <value>Log in to {0} account</value>
+    <comment>Author=kotovasia5120</comment>
+  </data>
+  <data name="Title_PasswordConfirm" xml:space="preserve">
+    <value>Please enter your password again to confirm</value>
+    <comment>Author=kotovasia5120</comment>
+  </data>
+  <data name="Title_PleaseEnterNewAuthName" xml:space="preserve">
+    <value>Please enter a new token name or cancel</value>
+    <comment>Author=kotovasia5120</comment>
+  </data>
+  <data name="Title_PleaseEnterTheAnswer" xml:space="preserve">
+    <value>Please enter the current cloud password answer</value>
+    <comment>Author=kotovasia5120</comment>
+  </data>
+  <data name="Title_PleaseInputCurrentAccountName_" xml:space="preserve">
+    <value>Please enter the name of the {0} account you are currently logged in with</value>
+    <comment>Author=kotovasia5120</comment>
+  </data>
+  <data name="Title_SetSecurityIssues" xml:space="preserve">
+    <value>Set up Cloud Password</value>
+    <comment>Author=kotovasia5120</comment>
+  </data>
+  <data name="Title_SetUp_" xml:space="preserve">
+    <value>{0} Settings</value>
+    <comment>Author=kotovasia5120</comment>
+  </data>
+  <data name="ViewDetailedData" xml:space="preserve">
+    <value>View detailed data</value>
+    <comment>Author=kotovasia5120</comment>
+  </data>
+  <data name="Warning_DoNotOperateFrequently" xml:space="preserve">
+    <value>Do not operate frequently</value>
+    <comment>Author=kotovasia5120</comment>
+  </data>
+  <data name="Warning_NotAuthProvided" xml:space="preserve">
+    <value>Please set a custom token password first</value>
+    <comment>Author=kotovasia5120</comment>
+  </data>
+  <data name="Warning_OnlySupportSteamAuth" xml:space="preserve">
+    <value>The unbinding function currently only supports Steam Guard</value>
+    <comment>Author=kotovasia5120</comment>
+  </data>
+  <data name="Warning_PleaseEnterAuthName" xml:space="preserve">
+    <value>Please enter a token name</value>
+    <comment>Author=kotovasia5120</comment>
+  </data>
+  <data name="Warning_PleaseEnterTel" xml:space="preserve">
+    <value>Please enter your phone number correctly.</value>
+    <comment>Author=kotovasia5120</comment>
+  </data>
+  <data name="Warning_PleaseSelectAuth" xml:space="preserve">
+    <value>Please select a Steam Guard first</value>
+    <comment>Author=kotovasia5120</comment>
+  </data>
+  <data name="Warning_PleaseStopAccelerate" xml:space="preserve">
+    <value>Please stop accelerating first</value>
+    <comment>Author=kotovasia5120</comment>
+  </data>
+  <data name="Warning_RefuseOperate" xml:space="preserve">
+    <value>The requested operation was denied</value>
+    <comment>Author=kotovasia5120</comment>
+  </data>
+  <data name="Warning_SteamAuthPhoneBind" xml:space="preserve">
+    <value>Currently, there is a problem that you cannot receive the verification code when binding your mobile phone number when importing. It is recommended to go to the account center to bind your mobile phone number before importing.</value>
+    <comment>Author=kotovasia5120</comment>
+  </data>
+  <data name="Warning_UnbindFailed" xml:space="preserve">
+    <value>Unbinding token failed: Login failed</value>
+    <comment>Author=kotovasia5120</comment>
+  </data>
+  <data name="Welcome_User_" xml:space="preserve">
+    <value>Welcome to Watt Toolkit</value>
+    <comment>Author=kotovasia5120</comment>
   </data>
 </root>
